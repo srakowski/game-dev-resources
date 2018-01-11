@@ -9,6 +9,16 @@ This is the resources page for my talk Press Start: Game Development for the Uni
 * https://github.com/Kavex/GameDev-Resources
 * https://game-development.zeef.com/david.arcila
 
+## Slides
+
+My slides were actually a MonoGame project! You need VS2017 + MonoGame 3.6 to run (also Gill Sans MT font, but you can change that)
+
+* **Repo**: https://github.com/srakowski/PressStartPresentation (I hacked this together during the conference because I wanted a parrallax starfield in my presentation and I wanted to use my xbox 360 controller as a clicker! Don't expect the code to be great :P)
+
+## Book
+
+* **Play**: https://www.amazon.com/Play-Shapes-Brain-Imagination-Invigorates-ebook/dp/B001SCK720
+
 ## Game Jams
 
 * **Ludum Dare**: http://ldjam.com/
